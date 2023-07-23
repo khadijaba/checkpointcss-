@@ -1,0 +1,94 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+
+header li, header h1, header ul{
+   display: inline; 
+}
+
+.nav-bar{
+    width: 60%;
+    margin: auto;
+}
+
+header ul{
+    margin-left: 450px;
+}
+
+header a{
+    text-decoration: none;
+    margin-right: 10px;
+    color: white;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+nav{
+    padding-top: 20px;
+}
+
+header{
+    background-color: rgb(186, 107, 107);
+    height: 70px;
+}
+
+header h1{
+    color: white;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+div a{
+    text-align: right;
+    
+    text-decoration: underline;
+    
+}
+header h2{
+    color: rgb(128, 102, 69);
+    font-size: medium;
+    height: 30px;
+}
+.image-container {
+    float: left;
+    margin-bottom: auto;
+}
+
+.text-container {
+    overflow: hidden; 
+   
+
+}
+.see-more-button {
+    background-color: rgb(199, 40, 106);
+    color: rgb(159, 109, 151);
+    padding: 10px 20px;
+    border:none;
+    border-radius: 5px;
+    font-size: 30px; 
+}
+.see-more-button:hover {
+    background-color: rgb(157, 134, 134);
+}
+.house-listing {
+    max-width: 600px;
+    margin: 20px auto;
+    padding: 20px;
+    border: 1px solid #732445;
+    border-radius: 5px;
+}
+
+.about-section{
+    display: flex;
+}
+
+
+
+
+
+
+
+
+
+
+  
+
+  
